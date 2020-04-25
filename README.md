@@ -1,5 +1,5 @@
 # wordcatcher-2.0
- before watching a foreign series. Learn the meaning of the words in that series
+Before watching a foreign series. Learn the meaning of the words in that series
  
  
 Bu nedir?
