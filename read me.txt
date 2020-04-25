@@ -1,0 +1,24 @@
+Program nasıl kullanılır:
+
+çevrilmesini istediginiz texti text dosyasına yapıştırın.
+
+görmezden gelinmesini istediginiz kelimeleri ignore, sayilar, isimler dosyalarından herhangi birine yapıştırın.
+
+ve play tuşuna basın.
+
+Nasıl çalışır:
+
+-text ve diger txt dosyalarında ki degerler string olarak alınır
+-". , ! ? *" gibi noktama işaretleri silinir
+- sayılar silinir
+-her kelime arasında bir boşluk olacak şekilde stringler ayarlanır
+-boşluklar referans alınarak her kelime bir diziye aktarılır (text dosyasındakiler kelimeler dizisine, digerleri ignore dizisine)
+-tekrar eden kelimeler silinir
+-en çok kullanılan kelimeler den en az kullanılan kelimelere sıralanır
+-Turkçeye çevrilir ve yazdırılır.
+
+
+
+
+
+by znkldk
