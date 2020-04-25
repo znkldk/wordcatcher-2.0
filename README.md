@@ -16,15 +16,15 @@ Play tuşuna basın.
 
 Nasıl çalışır:
 
--text ve diger txt dosyalarında ki degerler string olarak alınır
--". , ! ? *" gibi noktama işaretleri silinir
-- sayılar silinir
--her kelime arasında bir boşluk olacak şekilde stringler ayarlanır
--boşluklar referans alınarak her kelime bir diziye aktarılır (text dosyasındakiler kelimeler dizisine, digerleri ignore dizisine)
--tekrar eden kelimeler silinir
--Ignore dizisindeki kelimeler kelimeler dizisinden silinir.
--en çok kullanılan kelimeler den en az kullanılan kelimelere sıralanır
--Turkçeye çevrilir ve yazdırılır.
+1)Text ve diger txt dosyalarında ki degerler string olarak alınır
+2)". , ! ? *" gibi noktama işaretleri silinir
+3)Sayılar silinir
+4)Her kelime arasında bir boşluk olacak şekilde stringler ayarlanır
+5)Boşluklar referans alınarak her kelime bir diziye aktarılır (text dosyasındakiler kelimeler dizisine, digerleri ignore dizisine)
+6)Tekrar eden kelimeler silinir
+7)Ignore dizisindeki kelimeler kelimeler dizisinden silinir.
+8)En çok kullanılan kelimeler den en az kullanılan kelimelere sıralanır
+9)Turkçeye çevrilir ve yazdırılır.
 
 
 
