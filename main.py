@@ -129,8 +129,6 @@ ignore=[]
 count=[]
 translator= Translator(to_lang="tr") #türkçe ye çevirmek için tanımlama yapılır
 
-gormezdenGelinicekKelimeler=open("ignore.txt").read()+" "+open("sayilar.txt").read() #ıgnore sayılar fonksiyonel olarak hiç bir farkı yok sadece çıkartılmasıı istediginiz kelimeleri kolay gruplayabilmek için böyle bişi yaptım
-
 kelimeler =diziyeAt(kirp(open("text.txt").read()))#kelimeler çekilir
 ignore =diziyeAt(kirp(ignoreKelimeleriAl()))
 
